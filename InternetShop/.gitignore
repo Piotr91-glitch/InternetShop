@@ -1,4 +1,8 @@
+.vs/
 bin/
 obj/
 *.user
 *.suo
+*.ide
+*.log
+*.tmp
